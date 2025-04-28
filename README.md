@@ -8,9 +8,9 @@ Also, the background color of all editor elements was brought to common. I could
 
 ## Showcases
 
-![Dark](/assets/showcase-dark.png)
+![Dark](axiom-dark.png)
 
-![Light](/assets/showcase-light.png)
+![Light](axiom-light.png)
 
 ```
 Font          : NK57 Monospace
