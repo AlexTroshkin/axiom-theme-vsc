@@ -6,7 +6,7 @@
   "version": "0.0.1",
   "repository": {
     "type": "git",
-    "u1rl": "https://github.com/AlexTroshkin/axiom-theme-vsc"
+    "url": "https://github.com/AlexTroshkin/axiom-theme-vsc"
   },
   "engines": {
     "vscode": "^1.99.0"
