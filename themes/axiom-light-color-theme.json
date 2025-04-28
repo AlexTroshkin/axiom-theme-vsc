@@ -291,19 +291,7 @@
 		// Cursor
 		"charts.red": "#B22222"
 	},
-	// semanticTokenColors override tokenColors
-	"semanticHighlighting": true,
-	"semanticTokenColors": {
-		"comment": "#8b8b8b"
-	},
-	"tokenColors": [
-		// Comment
-		{
-			"scope": "comment",
-			"settings": {
-				"foreground": "#8b8b8b",
-				"fontStyle": "italic"
-			}
-		}
-	]
+	"semanticHighlighting": false,
+	"semanticTokenColors": {},
+	"tokenColors": []
 }

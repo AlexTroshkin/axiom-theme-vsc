@@ -1,9 +1,13 @@
 {
   "name": "axiom-theme",
   "displayName": "Axiom Theme",
-  "description": "Extremely simple monochrome theme in dark and light variants",
+  "description": "Simple monochrome theme in dark and light variants",
   "publisher": "p47hf1nd3r",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AlexTroshkin/axiom-theme-vsc"
+  },
   "engines": {
     "vscode": "^1.99.0"
   },

@@ -43,16 +43,16 @@
 		"commandCenter.activeForeground": "#CCCCCC",
 		"commandCenter.activeBackground": "#CCCCCC1A",
 		// Status Bar
-		"statusBar.background": "#181818",
+		"statusBar.background": "#1F1F1F",
 		"statusBar.border": "#2B2B2B",
-		"statusBar.debuggingBackground": "#181818",
+		"statusBar.debuggingBackground": "#1F1F1F",
 		"statusBar.debuggingForeground": "#CCCCCC",
 		"statusBar.focusBorder": "#2B2B2B",
 		"statusBar.foreground": "#CCCCCC",
 		"statusBar.noFolderBackground": "#1F1F1F",
 		"statusBarItem.focusBorder": "#777",
 		"statusBarItem.prominentBackground": "#6E768166",
-		"statusBarItem.remoteBackground": "#181818",
+		"statusBarItem.remoteBackground": "#1F1F1F",
 		"statusBarItem.remoteForeground": "#FFFFFF",
 		// Selection
 		"selection.background": "#CCCCCC40",
@@ -291,21 +291,8 @@
 		"textSeparator.foreground": "#21262D",
 		"welcomePage.tileBackground": "#2B2B2B",
 		"welcomePage.progress.foreground": "#0078D4",
-		// --- Customized Dark Modern Base ---
 	},
-	// semanticTokenColors override tokenColors
-	"semanticHighlighting": true,
-	"semanticTokenColors": {
-		"comment": "#7f7f7f"
-	},
-	"tokenColors": [
-		// Comment
-		{
-			"scope": "comment",
-			"settings": {
-				"foreground": "#7f7f7f",
-				"fontStyle": "italic"
-			}
-		},
-	]
+	"semanticHighlighting": false,
+	"semanticTokenColors": {},
+	"tokenColors": []
 }

@@ -1,16 +1,21 @@
-# axiom README
+## Description
 
-## Working with Markdown
+A simple monochrome theme based on “Halftone Theme”[^1], in dark and light variants for those who are tired of celebrating colors. 
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+Unlike the original theme all color and shape differentiation of tokens is removed because it distracts from the meaning. Would you want to read a book in which the publisher assigned different colors for each member of the sentence (predicate, nouns, verbs, adjectives, conjunctions, and so on)? I think not, and I haven't seen such books, but for some reason it is common in the programming world.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+Also, the background color of all editor elements was brought to common. I couldn't see the usefulness of such things as highlighting the activity bar with a separate color. But I can feel how attention is drawn to larger elements with more “rich” colors
 
-## For more information
+## Showcases
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+![Dark](/assets/showcase-dark.png)
 
-**Enjoy!**
+![Light](/assets/showcase-light.png)
+
+```
+Font          : NK57 Monospace
+Icons         : Quill icons
+Product Icons : Fluent icons
+```
+
+[^1]: This project includes code from [halftone-theme-vsc](https://github.com/ivanesmantovich/halftone-theme-vsc), licensed under GNU GPL-3.0.
