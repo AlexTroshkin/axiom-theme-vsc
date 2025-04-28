@@ -15,8 +15,8 @@
 		"titleBar.inactiveForeground": "#8e8e93",
 		"titleBar.border": "#D5D5D5",
 		// Editor Headers
-		"editorGroupHeader.tabsBackground": "#FAFAFA",
-		"editorGroupHeader.noTabsBackground": "#FAFAFA",
+		"editorGroupHeader.tabsBackground": "#FFF",
+		"editorGroupHeader.noTabsBackground": "#FFF",
 		"editorGroupHeader.border": "#D5D5D5",
 		// Editor Groups
 		"editorGroup.dropBackground": "#007aff33",
