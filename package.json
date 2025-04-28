@@ -1,7 +1,8 @@
 {
-  "name": "axiom",
-  "displayName": "Axiom",
+  "name": "axiom-theme",
+  "displayName": "Axiom Theme",
   "description": "Extremely simple monochrome theme in dark and light variants",
+  "publisher": "p47hf1nd3r",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.99.0"
@@ -9,12 +10,24 @@
   "categories": [
     "Themes"
   ],
+  "keywords": [
+    "theme",
+    "monochrome",
+    "minimalistic",
+    "dark",
+    "light"
+  ],
   "contributes": {
     "themes": [
       {
-        "label": "Axiom",
+        "label": "Axiom Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/Axiom-color-theme.json"
+        "path": "./themes/axiom-dark-color-theme.json"
+      },
+      {
+        "label": "Axiom Light",
+        "uiTheme": "vs",
+        "path": "./themes/axiom-light-color-theme.json"
       }
     ]
   }
