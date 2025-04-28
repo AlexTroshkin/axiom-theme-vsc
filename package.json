@@ -3,7 +3,8 @@
   "displayName": "Axiom Theme",
   "description": "Simple monochrome theme in dark and light variants",
   "publisher": "p47hf1nd3r",
-  "version": "0.0.1",
+  "version": "0.0.2",
+  "icon": "icon.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/AlexTroshkin/axiom-theme-vsc"
