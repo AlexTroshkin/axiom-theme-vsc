@@ -9,7 +9,7 @@
 		"terminalCursor.background": "#FFF",
 		"terminalCursor.foreground": "#444444",
 		// Title Bar
-		"titleBar.activeBackground": "#FAFAFA",
+		"titleBar.activeBackground": "#FFFFFF",
 		"titleBar.inactiveBackground": "#FFFFFF",
 		"titleBar.activeForeground": "#444444",
 		"titleBar.inactiveForeground": "#8e8e93",
