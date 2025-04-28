@@ -80,8 +80,8 @@
 		"editor.focusedStackFrameHighlightBackground": "#CCCCCC26",
 		"editor.linkedEditingBackground": "#CCCCCC26", // Highlights matching tag, default is red
 		// Indent Guides
-		"editorIndentGuide.background": "#CCCCCC14",
-		"editorIndentGuide.activeBackground": "#CCCCCC40",
+		"editorIndentGuide.background1": "#CCCCCC14",
+		"editorIndentGuide.activeBackground1": "#CCCCCC40",
 		// Hide noisy Terminal Overview Ruler
 		"terminalOverviewRuler.border": "#181818",
 		// Space around the centered editor
