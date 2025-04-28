@@ -24,7 +24,7 @@
 		// Activity Bar
 		"activityBar.activeBorder": "#2B2B2B",
 		"activityBar.activeBackground": "#2B2B2B",
-		"activityBar.background": "#181818",
+		"activityBar.background": "#1F1F1F",
 		"activityBar.border": "#2B2B2B",
 		"activityBar.foreground": "#D7D7D7",
 		"activityBar.inactiveForeground": "#868686",

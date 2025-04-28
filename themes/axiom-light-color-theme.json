@@ -22,7 +22,7 @@
 		"editorGroup.dropBackground": "#007aff33",
 		"editorGroup.border": "#D5D5D5",
 		// Activity Bar
-		"activityBar.background": "#FAFAFA",
+		"activityBar.background": "#FFF",
 		"activityBar.border": "#D5D5D5",
 		"activityBar.activeBorder": "#D5D5D599",
 		"activityBar.activeBackground": "#D5D5D580",
