@@ -127,10 +127,10 @@
 		"editorWarning.background": "#FFD70840",
 		"editorWarning.foreground": "#00000000",
 		// Side Bar
-		"sideBar.background": "#181818",
+		"sideBar.background": "#1F1F1F",
 		"sideBar.border": "#2B2B2B",
 		"sideBar.foreground": "#CCCCCC",
-		"sideBarSectionHeader.background": "#181818",
+		"sideBarSectionHeader.background": "#1F1F1F",
 		"sideBarSectionHeader.border": "#2B2B2B",
 		"sideBarSectionHeader.foreground": "#CCCCCC",
 		"sideBarTitle.foreground": "#CCCCCC",
