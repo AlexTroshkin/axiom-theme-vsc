@@ -1,5 +1,5 @@
 {
-	"name": "Halftone Dark",
+	"name": "Axiom Dark",
 	"colors": {
 		// Editor
 		"foreground": "#CCCCCC",
@@ -7,17 +7,18 @@
 		"editor.foreground": "#CCCCCC",
 		"editorCursor.background": "#1F1F1F",
 		"editorCursor.foreground": "#CCCCCC",
+		"editorOverviewRuler.border": "#00000000",
 		"terminalCursor.background": "#1F1F1F",
 		"terminalCursor.foreground": "#CCCCCC",
 		// Title Bar
 		"titleBar.activeBackground": "#1F1F1F",
 		"titleBar.activeForeground": "#CCCCCC",
 		"titleBar.inactiveBackground": "#1F1F1F",
-		"titleBar.inactiveForeground": "#9D9D9D",
+		"titleBar.inactiveForeground": "#CCCCCC",
 		"titleBar.border": "#2B2B2B",
 		// Editor Headers
 		"editorGroupHeader.tabsBackground": "#1F1F1F",
-		"editorGroupHeader.tabsBorder": "#2B2B2B",
+		"editorGroupHeader.noTabsBackground": "#1F1F1F",
 		"editorGroupHeader.border": "#2B2B2B",
 		// Editor Groups
 		"editorGroup.border": "#2B2B2B",
@@ -26,8 +27,9 @@
 		"activityBar.activeBackground": "#2B2B2B",
 		"activityBar.background": "#1F1F1F",
 		"activityBar.border": "#2B2B2B",
-		"activityBar.foreground": "#D7D7D7",
-		"activityBar.inactiveForeground": "#868686",
+		"activityBar.foreground": "#CCCCCC",
+		"activityBar.inactiveForeground": "#CCCCCC7F",
+		"activityBarTop.activeBorder": "#00000000",
 		"activityBarBadge.background": "#454545",
 		"activityBarBadge.foreground": "#FFFFFF",
 		// Menu
@@ -80,8 +82,8 @@
 		"editor.focusedStackFrameHighlightBackground": "#CCCCCC26",
 		"editor.linkedEditingBackground": "#CCCCCC26", // Highlights matching tag, default is red
 		// Indent Guides
-		"editorIndentGuide.background1": "#CCCCCC14",
-		"editorIndentGuide.activeBackground1": "#CCCCCC40",
+		"editorIndentGuide.background1": "#2B2B2B",
+		"editorIndentGuide.activeBackground1": "#2B2B2B",
 		// Hide noisy Terminal Overview Ruler
 		"terminalOverviewRuler.border": "#181818",
 		// Space around the centered editor
@@ -100,7 +102,7 @@
 		"badge.foreground": "#F8F8F8",
 		// Progress Bar
 		"progressBar.background": "#777777",
-		// Lists and Trees
+		// Lists
 		"list.inactiveSelectionBackground": "#CCCCCC1A",
 		"list.inactiveSelectionForeground": "#CCC",
 		"list.inactiveSelectionIconForeground": "#CCC",
@@ -113,6 +115,8 @@
 		"list.focusForeground": "#FFF",
 		"list.highlightForeground": "#FFF",
 		"list.focusHighlightForeground": "#FFF",
+		// Trees
+		"tree.indentGuidesStroke": "#00000000",
 		// Line Numbers
 		"editorLineNumber.activeForeground": "#CCCCCC",
 		"editorLineNumber.foreground": "#494949",
@@ -144,16 +148,17 @@
 		"button.secondaryHoverBackground": "#3C3C3C",
 		// Tabs
 		"tab.activeBackground": "#1F1F1F",
-		"tab.activeBorder": "#1F1F1F",
-		"tab.activeBorderTop": "#1F1F1F",
-		"tab.activeForeground": "#FFFFFF",
-		"tab.selectedBorderTop": "#1F1F1F",
-		"tab.border": "#2B2B2B",
+		"tab.activeBorder": "#00000000",
+		"tab.activeBorderTop": "#00000000",
+		"tab.activeForeground": "#CCCCCC",
+		"tab.border": "#00000000",
 		"tab.hoverBackground": "#1F1F1F",
-		"tab.inactiveBackground": "#181818",
-		"tab.inactiveForeground": "#9D9D9D",
-		"tab.unfocusedActiveBorder": "#1F1F1F",
-		"tab.unfocusedActiveBorderTop": "#2B2B2B",
+		"tab.inactiveBackground": "#1F1F1F",
+		"tab.inactiveForeground": "#CCCCCC7F",
+		"tab.unfocusedInactiveForeground": "#CCCCCC7F",
+		"tab.unfocusedActiveForeground": "#CCCCCC",
+		"tab.unfocusedActiveBorder": "#00000000",
+		"tab.unfocusedActiveBorderTop": "#00000000",
 		"tab.unfocusedHoverBackground": "#1F1F1F",
 		"tab.dragAndDropBorder": "#ACACAC",
 		// Bottom Panel
@@ -253,6 +258,11 @@
 		"terminal.background": "#181818",
 		// Cursor
 		"charts.red": "#F85149",
+		// Scrollbar
+		"scrollbar.shadow": "#00000000",
+		"scrollbarSlider.background": "#F2F2F200",
+		"scrollbarSlider.hoverBackground": "#F2F2F27F",
+		"scrollbarSlider.activeBackground": "#F2F2F27F",
 		// --- Customized Dark Modern Base ---
 		"chat.slashCommandBackground": "#34414B",
 		"chat.slashCommandForeground": "#40A6FF",
@@ -268,7 +278,6 @@
 		"editorGutter.addedBackground": "#2EA043",
 		"editorGutter.deletedBackground": "#F85149",
 		"editorGutter.modifiedBackground": "#0078D4",
-		"editorOverviewRuler.border": "#010409",
 		"errorForeground": "#F85149",
 		"icon.foreground": "#CCCCCC",
 		"keybindingLabel.foreground": "#CCCCCC",
