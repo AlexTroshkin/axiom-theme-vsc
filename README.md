@@ -13,7 +13,8 @@ Also, the background color of all editor elements was brought to common. I could
 ![Light](./axiom-light.png)
 
 ```
-Font          : NK57 Monospace
+Font          : Inconsolata
+Line height   : 2
 Icons         : Quill icons
 Product Icons : Fluent icons
 ```

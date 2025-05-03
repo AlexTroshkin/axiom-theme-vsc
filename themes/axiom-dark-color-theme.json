@@ -138,6 +138,7 @@
 		"sideBarSectionHeader.border": "#2B2B2B",
 		"sideBarSectionHeader.foreground": "#CCCCCC",
 		"sideBarTitle.foreground": "#CCCCCC",
+		"sideBarTitle.border": "#2B2B2B",
 		// Button
 		"button.background": "#2B2B2B",
 		"button.border": "#FFFFFF12",
